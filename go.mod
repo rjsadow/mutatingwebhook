@@ -1,3 +1,3 @@
-module github.com/wardviaene/kubernetes-course/mutatingwebhook
+module github.com/rsadowsk/mutatingwebhook
 
 go 1.15
